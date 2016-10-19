@@ -1,2 +1,5 @@
 # todospray
-simple spray backend todo list using based on todo-backnd.com
+Simple spray backend todo list based on [Todo backend](http://todobackend.com)
+
+Tests are provided by the site [here](http://todobackend.com/specs/index.html)
+
